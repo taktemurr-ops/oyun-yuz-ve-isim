@@ -12,11 +12,11 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 8cb935c63a86ca3e5fb38758edd5bb8ec44dccdd
+      ref: 27330cd30b8fbedd4d33cf8cb781cd3bb8376dd8
   zihin_motoru:
     git:
       url: https://github.com/taktemurr-ops/zihin-motoru
-      ref: 9f6815e61d7324aef32a49af9b307cbf5633f454
+      ref: 2307d022a094a2015edf4b2512a1859857fd2603
 
 dev_dependencies:
   flutter_test:
