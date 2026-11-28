@@ -16,7 +16,7 @@ dependencies:
   zihin_motoru:
     git:
       url: https://github.com/taktemurr-ops/zihin-motoru
-      ref: 3c83f74294d0548cbc16c9a709901f9ef5090a58
+      ref: 0e20014c4303cf383b599fa8429d1a8865c18c5c
 
 dev_dependencies:
   flutter_test:
